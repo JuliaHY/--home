@@ -1,0 +1,2 @@
+# --home
+JAVA share
